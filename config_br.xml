@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>prazoboleto</name>
+    <displayName><![CDATA[Pagamento por Boleto com Prazo]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Permite configurar prazos de pagamento para clientes.]]></description>
+    <author><![CDATA[Seu Nome]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Tem certeza de que deseja desinstalar este m車dulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
